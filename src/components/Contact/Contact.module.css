@@ -1,0 +1,24 @@
+.contact {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.name {
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.number {
+    color: #666;
+    margin: 5px 0;
+}
+
+button {
+    margin-top: auto;
+    align-self: flex-start;
+}

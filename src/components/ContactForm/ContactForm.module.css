@@ -1,0 +1,16 @@
+.form{
+    margin: O;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.input{
+    margin-bottom: 10px;
+}
